@@ -1,0 +1,50 @@
+*{
+  margin: 5px;
+}
+.main{
+  display: flex;
+  justify-content: space-around;  margin: 20px;
+}
+h1 ,p{
+  margin-left: 250px; 
+  
+}
+.link{
+  text-decoration-color: black;
+  color: rgb(241, 18, 18);
+  margin-left: 250px;
+  position: absolute;
+  margin-top: 60px 0; 
+}
+#navbar{
+  margin-bottom: 30px;
+}
+.home, .about , .button{
+  margin-right: 40px;
+  color: #fff;
+  text-decoration: none;
+
+}
+.home{
+  margin-left: 20px;
+}
+#img ,#img2{
+  height: 600px;
+   margin-top: -15px;
+  /* position: absolute; */
+}
+.d{
+  display: flex;
+}
+.h{
+  display: flex;
+
+}
+.about_text ,.text_main{
+  margin-top: 20px;
+  
+}
+.para{
+  font-size: 25px;
+  font-family: 'Courier New', Courier, monospace;
+}
